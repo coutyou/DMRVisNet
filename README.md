@@ -50,9 +50,9 @@ dmrvisnet
 ./test.sh
 ```
 
-## Inference
+## Quick start
 
-Please refer to src/inference.ipynb
+Please refer to src/quickstart.ipynb
 
 ## Citation
 
