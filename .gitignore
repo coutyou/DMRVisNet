@@ -1,0 +1,5 @@
+checkpoints
+data_pkl
+__pycache__
+.ipynb_checkpoints
+.vscode
