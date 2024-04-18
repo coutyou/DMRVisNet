@@ -1,7 +1,5 @@
 # DMRVisNet
 
-## Overview
-
 PyTorch implementation and pretrained model for DMRVisNet. For details, see the paper [DMRVisNet: Deep Multihead Regression Network for Pixel-Wise Visibility Estimation Under Foggy Weather](https://ieeexplore.ieee.org/document/9794328).
 <div align="center">
   <img src="assert/overview.png" width="90%">
@@ -9,7 +7,7 @@ PyTorch implementation and pretrained model for DMRVisNet. For details, see the 
 
 ## Preparation
 
-## Environment
+### Environment
 
 Please make sure that you have installed torch, einops, tqdm, Pillow, opencv-python and matplotlib.
 
