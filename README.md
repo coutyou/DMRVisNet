@@ -9,7 +9,7 @@ PyTorch implementation and pretrained model for DMRVisNet. For details, see the 
 
 ### Environment
 
-Please make sure that you have installed torch, einops, tqdm, Pillow, opencv-python and matplotlib.
+Please make sure that you have installed torch, einops, tqdm, Pillow, opencv-python, progress and matplotlib.
 
 ### Download Dataset
 
